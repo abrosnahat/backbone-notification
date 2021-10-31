@@ -99,6 +99,7 @@
     border-radius: 10px;
     text-decoration: none;
     color: #000;
+    cursor: pointer;
 }
 
 .notification-button {
@@ -115,5 +116,6 @@
     color: #fff;
     text-align: center;
     font-size: 25px;
-    border-radius: 50%
+    border-radius: 50%;
+    cursor: pointer;
 }
